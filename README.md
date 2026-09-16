@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Juan Alejandro Bencosme Diaz 👋
 
-<!--
-**Bencosme039498/Bencosme039498** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI | Python | Data Visualization
 
-Here are some ideas to get you started:
+I'm a Data Analyst with a background in Chemical Engineering and operations, focused on transforming data into meaningful insights that support business decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have hands-on experience building interactive dashboards and analytical solutions using Power BI, Power Query, DAX, and data modeling, as well as using Python, Pandas, and NumPy for data analysis and quantitative problem-solving.
+
+## 🛠️ Technical Skills
+
+- **Business Intelligence:** Power BI, Power Query, DAX, Data Modeling, KPI Development
+- **Data Analysis & Programming:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+- **Database:** SQL (Foundational Knowledge)
+- **Tools:** Git, GitHub, Excel
