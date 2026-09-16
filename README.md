@@ -11,4 +11,4 @@ I have hands-on experience building interactive dashboards and analytical soluti
 - **Business Intelligence:** Power BI, Power Query, DAX, Data Modeling, KPI Development
 - **Data Analysis & Programming:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
 - **Database:** SQL (Foundational Knowledge)
-- **Tools:** Git, GitHub, Excel
+
